@@ -28,6 +28,7 @@ h1 {
   width: 450px;
   background: linear-gradient(135deg, #6e82f4, #3012f3);
   margin: 1rem;
+  box-shadow: white 0px 0px 23px 2px;
 }
 
 .country-search-bar {
